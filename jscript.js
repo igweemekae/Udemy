@@ -1,12 +1,23 @@
-const firstName = "Eze";
-const lastName = "Igwe";
+/*
+const massMark = 95;
+const heightMark = 1.88;
+const massJohn = 85;
+const heightJohn = 1.76;
 
-console.log(`my name is ${firstName} ${lastName}. God bless you for reaching out!`)
+const BMIMark = massMark / heightMark ** 2;
+const BMIJohn = massJohn / heightJohn ** 2;
 
-const now = 2022;
-const Ebuka = now - 2001;
-const Chisom = now - 1998;
-const Amaka = now - 2003;
+console.log (BMIMark, BMIJohn);
 
-console.log(Ebuka, Amaka, Chisom)
-console.log(Ebuka  + Amaka + Chisom <= 100);
+if (BMIMark > BMIJohn) {
+    console.log(`Mark's BMI is higher than John's!`)
+}else {
+    console.log(`John's BMI is higher than Mark's!`)
+}
+*/
+
+const sdevEze;
+
+sdevEze = 56;
+
+console.log(sdevEze);
